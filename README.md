@@ -2,11 +2,18 @@
 
 I gather all my previous projects here, no matter big or small, to record my growth and achievements.
 
+## 2024
+| Project                  | Description       | Link       | Technologies                   |
+| ------------------------- | -------------------------------------------------------- | ---------------------- | --------------------------- |
+| [Mini Ray Tracer](https://github.com/SimpleLuke/miniRayTracer) | A mini ray tracer to render simple Computer-Generated-Images.  | [Code](https://github.com/SimpleLuke/miniRayTracer) | C, minilibx |
+| [so_long](https://github.com/SimpleLuke/so_long) | A 2D game which the player finds the shortest way to collect all the collectibles and avoid encounting enemies to the exit.  | [Code](https://github.com/SimpleLuke/so_long) | C, minilibx |
+| [CPP Modules](https://github.com/SimpleLuke/Cpp_Modules) | A collection of modules of 42 school's C++ modules. The modules introduce concepts related to object-oriented programming, such as classes, inheritance, ad-hoc polymorphism, templates, containers, and more.  | [Code](https://github.com/SimpleLuke/Cpp_Modules) | C ++ |
+| [Libft](https://github.com/SimpleLuke/42_libft) | Rewriting useful functions in the C library.  | [Code](https://github.com/SimpleLuke/42_libft) | C |
 
 ## 2023
 | Project                  | Description       | Link       | Technologies                   |
 | ------------------------- | -------------------------------------------------------- | ---------------------- | --------------------------- |
-| [React from Scratch](https://github.com/SimpleLuke/React-from-Scratch) (Current project)   | Built React from Scratch with JavaScript. Fully tested with Jest.  | [Code](https://github.com/SimpleLuke/React-from-Scratch) | JavaScript, Jest |
+| [React from Scratch](https://github.com/SimpleLuke/React-from-Scratch) | Built React from Scratch with JavaScript. Fully tested with Jest.  | [Code](https://github.com/SimpleLuke/React-from-Scratch) | JavaScript, Jest |
 | [Clothing E-commerce Platform](https://github.com/SimpleLuke/e-commerce)               | Built an E-commerce website using TypeScript, React, Redux, Redux Saga and Tailwind. Integrated Stripe for payment and Firebase for data management and authentication. Implemented CircleCI for continuous integration and delivery (CI/CD)  | [Code](https://github.com/SimpleLuke/e-commerce) [Demo](https://subtle-bublanina-76bf5e.netlify.app/)                                         | TypeScript, React, React Router, Redux, Redux Saga, Stripe, CircleCI, Firebase authentication and Firestore |
 | [Japanese RPG Learning App](https://github.com/SimpleLuke/japanese-learning-RPG)          | Developed a Japanese learning website with RPG game elements as part of a team of five.                                                                   | [Code](https://github.com/SimpleLuke/japanese-learning-RPG)                                     | React, Redux toolkit, Node.js, Express.js, MongoDB, Tailwind, Cypress, Jest                               |
 | [Face Recognition App](https://github.com/SimpleLuke/Face-Recognition-App) | Created a face recognition app with Clarifai API using React, Node.js, Express.js, and PostgreSQL. Users can post an image link to identify faces on the picture.           | [Code](https://github.com/SimpleLuke/Face-Recognition-App) [Demo](https://merry-marigold-e75c7c.netlify.app/)                                   | React, Node.js, Express.js, REST API, PostgreSQL, Clarifai, Bcrypt                                                          |
