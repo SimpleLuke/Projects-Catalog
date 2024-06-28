@@ -6,6 +6,8 @@ I gather all my previous projects here, no matter big or small, to record my gro
 | Project                  | Description       | Link       | Technologies                   |
 | ------------------------- | -------------------------------------------------------- | ---------------------- | --------------------------- |
 | [Mini Ray Tracer](https://github.com/SimpleLuke/miniRayTracer) | A mini ray tracer to render simple Computer-Generated-Images.  | [Code](https://github.com/SimpleLuke/miniRayTracer) | C, minilibx |
+| [Mini Shell](https://github.com/SimpleLuke/mini-shell) | A basic shell implementation.  | [Code](https://github.com/SimpleLuke/mini-shell) | C |
+| [Philosophers](https://github.com/SimpleLuke/42_philosophers) | A concurrent program using threads, mutexes, processes and semaphores.  | [Code](https://github.com/SimpleLuke/42_philosophers) | C |
 | [so_long](https://github.com/SimpleLuke/so_long) | A 2D game which the player finds the shortest way to collect all the collectibles and avoid encounting enemies to the exit.  | [Code](https://github.com/SimpleLuke/so_long) | C, minilibx |
 | [CPP Modules](https://github.com/SimpleLuke/Cpp_Modules) | A collection of modules of 42 school's C++ modules. The modules introduce concepts related to object-oriented programming, such as classes, inheritance, ad-hoc polymorphism, templates, containers, and more.  | [Code](https://github.com/SimpleLuke/Cpp_Modules) | C ++ |
 | [Libft](https://github.com/SimpleLuke/42_libft) | Rewriting useful functions in the C library.  | [Code](https://github.com/SimpleLuke/42_libft) | C |
